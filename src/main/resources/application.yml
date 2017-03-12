@@ -1,0 +1,6 @@
+client1:
+  exclude:
+  include:
+client2:
+  exclude: age,height,weight
+  include:
